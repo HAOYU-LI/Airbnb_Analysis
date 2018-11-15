@@ -39,4 +39,4 @@ from sklearn.model_selection import train_test_split
 
 
 # Useful links
-* [Blog](https://medium.com/p/4f73ab8981d8/edit) - A blog to introduce this analysis.
+* [Blog](https://medium.com/@lihaoyu001/airbnb-data-insight-for-boston-and-seattle-area-4f73ab8981d8) - A blog to introduce this analysis.
