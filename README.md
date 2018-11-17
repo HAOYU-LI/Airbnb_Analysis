@@ -9,20 +9,6 @@ This project aims to answer three questions:
 - What are the top important features when predicting the price in two cities?
 
 
-# Library usage
-This project used python to conduct data modeling. Visualization abd machine learning libraries in python are applied.
-```
-import numpy as np
-import pandas as pd
-import mplleaflet
-import seaborn as sns
-from tqdm import tqdm
-from xgboost import XGBRegressor
-from matplotlib import pyplot as plt
-from xgboost import plot_importance
-from sklearn.model_selection import GridSearchCV
-from sklearn.model_selection import train_test_split
-```
 
 # Result:
 
